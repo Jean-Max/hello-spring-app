@@ -1,8 +1,5 @@
 package com.viseo.formation;
 
-import org.springframework.context.annotation.Profile;
-
-@Profile("tests")
 public class HelloSpring {
 
 	private String name;
