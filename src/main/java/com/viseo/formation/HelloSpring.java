@@ -10,5 +10,6 @@ public class HelloSpring {
 
 	public void sayHello() {
 		System.out.println("Spring says hello to you " + name + "!");
+		System.out.println("je m'appelle shawn");
 	}
 }
